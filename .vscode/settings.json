@@ -1,0 +1,4 @@
+{
+    "pylint.importStrategy": "useBundled",
+    "pylint.logLevel": "error"
+}
